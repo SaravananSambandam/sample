@@ -1,2 +1,2 @@
 # sample
-Sample Reprository
+This is the Sample Reprository
